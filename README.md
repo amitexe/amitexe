@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **amitvarmad@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MfOXJhBc4hc8Ysk4wvDyilrd1ABrr1GX/view?usp=sharing](https://drive.google.com/file/d/1MfOXJhBc4hc8Ysk4wvDyilrd1ABrr1GX/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1MfOXJhBc4hc8Ysk4wvDyilrd1ABrr1GX/view?usp=sharing](https://drive.google.com/file/d/1MfOXJhBc4hc8Ysk4wvDyilrd1ABrr1GX/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
