@@ -1,11 +1,13 @@
+![MasterHead](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)
 <h1 align="center">Hi 👋, I'm Amit Dandu</h1>
 <h3 align="center">CS Undergraduate | SIH'24 Finalist | AI&ML and Data Science Enthusiast</h3>
+(img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif")
 
 - 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **amitvarmad@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MfOXJhBc4hc8Ysk4wvDyilrd1ABrr1GX/view?usp=sharing](https://drive.google.com/file/d/1MfOXJhBc4hc8Ysk4wvDyilrd1ABrr1GX/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1MfOXJhBc4hc8Ysk4wvDyilrd1ABrr1GX/view?usp=sharing](https://drive.google.com/file/d/1MfOXJhBc4hc8Ysk4wvDyilrd1ABrr1GX/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
