@@ -20,4 +20,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitexe&show_icons=true&theme=dracula&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="amitexe" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amitexe&show_icons=true&theme=dracula&title_color=ffffff&text_color=ffffff&locale=en" alt="amitexe" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amitexe&show_icons=true&theme=dracula&title_color=ffffff&text_color=ffffff&locale=en" alt="amitexe" /></p> 
